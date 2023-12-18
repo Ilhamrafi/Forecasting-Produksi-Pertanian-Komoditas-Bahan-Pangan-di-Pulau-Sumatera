@@ -1,6 +1,6 @@
 # Forecasting-Produksi-Pertanian-Komoditas-Bahan-Pangan-di-Pulau-Sumatera
 ## Overview 
-Projek ini merupakan kolaborasi berkelompok untuk memenuhi kebutuhan Seminar Nasional SENOVTIK 2023 yang diadakan oleh IndoCEISS. Penelitian ini bertujuan untuk memprediksi produksi beras di Pulau Sumatera dengan menggunakan model Long Short-Term Memory (LSTM). Berikut adalah anggota kelompok beserta nama dan NIM mereka:
+Projek ini merupakan kolaborasi berkelompok untuk memenuhi kebutuhan Seminar Nasional SENOVTIK 2023 yang diadakan oleh IndoCEISS. Penelitian ini bertujuan untuk memprediksi produksi beras di Pulau Sumatera dengan menggunakan model Long Short-Term Memory (LSTM). Berikut adalah anggota kelompok beserta nama dan NIM kami:
 
 - Cahyo Prakoso (5200411379)
 - Ach. Nur Aqil Wahid (5200411387)
